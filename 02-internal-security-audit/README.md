@@ -40,7 +40,7 @@ For any questions or feedback, reach out:
 
 > Author: [Paarth Pandey](https://github.com/paarthpandey10)
 >  
-> Course/Certificate/Project Name
+> Google Cybersecurity Professional Certificate
 
 
 
