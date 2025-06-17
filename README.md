@@ -13,13 +13,13 @@ Each folder contains:
 
 google-cybersecurity-portfolio/
 ├── 01-professional-statement/
-│ ├── README.md
-│ └── professional-statement.md
-
+│   ├── README.md
+│   └── professional-statement.md
 ├── 02-internal-security-audit/
-│ ├── README.md
-│ ├── internal-audit-report.md
-│ └── screenshots/
+│   ├── README.md
+│   ├── internal-audit-report.md
+│   └── screenshots/
+
 
 <!--
 
