@@ -1,93 +1,88 @@
-# Google Cybersecurity Portfolio 📁🔐
+# Google Cybersecurity Portfolio
 
-This repository contains practical cybersecurity projects completed as part of the **Google Cybersecurity Professional Certificate** on Coursera. These tasks simulate real-world responsibilities in a cybersecurity role and demonstrate foundational skills in security auditing, incident handling, risk analysis, and technical documentation.
+> Practical cybersecurity projects completed as part of the Google Cybersecurity Professional Certificate.
 
 ---
 
-## 📚 Projects Included
+## Table of Contents
 
-Each folder contains:
-- A `README.md` explaining the task
-- Your documented responses and technical write-ups
-- Any screenshots or supporting files
+- [About](#about)  
+- [Project Structure](#project-structure)  
+- [Usage / How to Use](#usage--how-to-use)  
+- [Features / Highlights](#features--highlights)  
+- [Technologies Used](#technologies-used)  
+- [Contributing](#contributing)  
+- [License](#license)  
+- [Contact](#contact)
 
+---
+
+## About
+
+This repository contains hands-on cybersecurity projects that simulate real-world responsibilities in a junior cybersecurity role.  
+Each project demonstrates foundational skills like auditing, incident handling, risk analysis, and documentation.
+
+---
+
+## Project Structure
 ```
 google-cybersecurity-portfolio/
 ├── 01-professional-statement/
 │ ├── README.md
-│ ├── professional-statement.pdf
-│ └── professional-statement.md
+│ ├── professional-statement.md
+│ └── professional-statement.pdf
 ├── 02-internal-security-audit/
 │ ├── README.md
-│ ├── internal-audit-report.md
-│ └── screenshots/
+│ ├── audit-controls-compliance-and-checklist.pdf
+│ ├── botiumtoys-scope-goals-risk-assessment-report.pdf
+│ └── control-categories.pdf
+├── LICENSE
+└── README.md
 ```
+---
 
-<!--
+## Usage / How to Use
 
-├── 03-network-structure-analysis/
-│ ├── README.md
-│ └── network-structure.md
-
-├── 04-linux-file-permissions/
-│ ├── README.md
-│ └── file-permissions.md
-
-├── 05-sql-filtering-analysis/
-│ ├── README.md
-│ └── sql-analysis.md
-
-├── 06-small-business-vulnerability-assessment/
-│ ├── README.md
-│ └── vulnerability-assessment.md
-
-├── 07-incident-handling-journal/
-│ ├── README.md
-│ └── incident-journal.md
-
-├── 08-text-parsing-task/
-│ ├── README.md
-│ └── parsing-solution.md
-
-├── 09-cybersecurity-resume/
-│ ├── README.md
-│ └── resume.pdf
--->
+Browse through each folder to view individual tasks.  
+Each task contains documentation, reports, and supporting materials.
 
 ---
 
-## 🔧 Skills Demonstrated
+## Features / Highlights
 
-- ✅ Drafting a professional cybersecurity statement  
-- ✅ Conducting internal security audits
-<!-- 
-- ✅ Analyzing and documenting network structures  
-- ✅ Managing Linux file permissions using CLI  
-- ✅ Writing filtered SQL queries  
-- ✅ Assessing vulnerabilities in small business environments  
-- ✅ Documenting incidents using an incident handler’s journal  
-- ✅ Parsing and analyzing text files in security contexts  
-- ✅ Writing a cybersecurity-focused resume  
--->
----
-
-
-## 📄 License
-
-This repository is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
-
-You are free to:
-
-- **Share** — copy and redistribute the material in any medium or format  
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially  
-
-**Under the following terms**:  
-- **Attribution** — You must give appropriate credit (e.g., Paarth Pandey), provide a link to the license, and indicate if changes were made.  
-
-🔗 License: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+- ✅ Drafted a professional cybersecurity statement  
+- ✅ Conducted an internal security audit and provided recommendations  
 
 ---
 
-> 👨‍💻 Author: [Paarth Pandey](https://github.com/paarthpandey10)
+## Technologies Used
+
+- Markdown  
+- PDF (reports)  
+- Basic security frameworks and audit principles  
+
+---
+
+## Contributing
+
+Not open for contributions.
+
+---
+
+## License
+
+Licensed under the Creative Commons Attribution 4.0 International License.  
+[Link to License](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+## Contact
+
+**Paarth Pandey**  
+[LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/) | [GitHub](https://github.com/paarthpandey10) | paarthdxb@gmail.com
+
+---
+
+> Author: [Paarth Pandey](https://github.com/paarthpandey10)  
 >  
-> 🎓 Google Cybersecurity Professional Certificate
+> Google Cybersecurity Professional Certificate
