@@ -18,4 +18,4 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 For any questions or feedback, reach out:  
 **Paarth Pandey**  
-[LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/) | [GitHub](https://github.com/paarthpandey10) | paarthpandey@example.com
+[LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/) | [GitHub](https://github.com/paarthpandey10) | paarthdxb@gmail.com
