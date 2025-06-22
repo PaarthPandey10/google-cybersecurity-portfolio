@@ -26,7 +26,7 @@ Each project demonstrates foundational skills like auditing, incident handling, 
 
 ## Project Structure
 ```
-📁 google-cybersecurity-portfolio/
+google-cybersecurity-portfolio/
 ├── 01-professional-statement/
 │   ├── README.md
 │   ├── professional-statement.md
