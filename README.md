@@ -26,16 +26,46 @@ Each project demonstrates foundational skills like auditing, incident handling, 
 
 ## Project Structure
 ```
-google-cybersecurity-portfolio/
+📁 google-cybersecurity-portfolio/
 ├── 01-professional-statement/
-│ ├── README.md
-│ ├── professional-statement.md
-│ └── professional-statement.pdf
+│   ├── README.md
+│   ├── professional-statement.md
+│   └── professional-statement.pdf
+│
 ├── 02-internal-security-audit/
-│ ├── README.md
-│ ├── audit-controls-compliance-and-checklist.pdf
-│ ├── botiumtoys-scope-goals-risk-assessment-report.pdf
-│ └── control-categories.pdf
+│   ├── README.md
+│   ├── audit-controls-compliance-and-checklist.pdf
+│   ├── botiumtoys-scope-goals-risk-assessment-report.pdf
+│   └── control-categories.pdf
+│
+├── 03-dns-icmp-analysis/
+│   ├── README.md
+│   ├── dns-icmp-analysis-example.pdf
+│   └── dns-icmp-analysis-report.pdf
+│
+├── 04-syn-flood-attack/
+│   ├── README.md
+│   ├── how-to-read-wireshark-logs.pdf
+│   ├── syn-flood-attack-report.pdf
+│   └── wireshark-logs.pdf
+│
+├── 05-brute-force-compromise/
+│   ├── README.md
+│   ├── brute-force-compromise-report.pdf
+│   ├── how-to-read-tcpdump-logs.pdf
+│   └── tcpdump-logs.pdf
+│
+├── 06-network-hardening-assessment/
+│   ├── README.md
+│   ├── network-hardening-assessment.pdf
+│   └── network-hardening-tools.pdf
+│
+├── 07-nist-csf-incident-report/
+│   ├── README.md
+│   ├── how-to-apply-nist-csf.pdf
+│   ├── nist-csf-incident-report.pdf
+│   └── nist-csf-incident-example.pdf
+│
 ├── LICENSE
 └── README.md
 ```
