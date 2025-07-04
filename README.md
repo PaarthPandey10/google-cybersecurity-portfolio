@@ -68,9 +68,9 @@ google-cybersecurity-portfolio/
 │
 ├── 08-managing-file-permissions-in-linux/
 │   ├── README.md
-│   ├── how-to-apply-nist-csf.pdf
-│   ├── nist-csf-incident-report.pdf
-│   └── nist-csf-incident-example.pdf
+│   ├── current-file-permissions.pdf
+│   ├── file-permissions-linux.pdf
+│   └── instructions-for-including-linux-commands.pdf
 |
 ├── LICENSE
 └── README.md
