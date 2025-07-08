@@ -72,6 +72,12 @@ google-cybersecurity-portfolio/
 │   ├── file-permissions-linux.pdf
 │   └── instructions-for-including-linux-commands.pdf
 |
+├── 09-apply-filters-to-sql-queries/
+│   ├── README.md
+│   ├── apply-filters-sql-quries.pdf
+│   ├── instructions-for-including-sql-queries.pdf
+│   └── table-formats.pdf
+|
 ├── LICENSE
 └── README.md
 ```
