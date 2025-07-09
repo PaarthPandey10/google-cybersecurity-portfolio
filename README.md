@@ -78,6 +78,10 @@ google-cybersecurity-portfolio/
 │   ├── instructions-for-including-sql-queries.pdf
 │   └── table-formats.pdf
 |
+├── 10-home-asset-inventory-identification/
+│   ├── README.md
+│   └── home-asset-inventory.pdf
+|
 ├── LICENSE
 └── README.md
 ```
