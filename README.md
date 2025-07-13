@@ -82,6 +82,10 @@ google-cybersecurity-portfolio/
 │   ├── README.md
 │   └── home-asset-inventory.pdf
 |
+├── 11-risk-register-assessment/
+│   ├── README.md
+│   └── risk-register.pdf
+|
 ├── LICENSE
 └── README.md
 ```
