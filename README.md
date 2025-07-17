@@ -90,6 +90,21 @@ google-cybersecurity-portfolio/
 │   ├── README.md
 │   └── data-leak-worksheet.pdf
 |
+├── 13-access-control-and-accounting/
+│   ├── README.md
+|   ├── access-control-worksheet.pdf
+│   └── event-log.pdf
+|
+├── 14-vulnerable-system-analysis/
+│   ├── README.md
+|   ├── nist-sp-800-30-rev1.pdf
+│   └── vulnerability-assessment-report.pdf
+|
+├── 15-data-handling-practices/
+│   ├── README.md
+|   ├── parking-lot-usb-contents.png
+│   └── parking-lot-usb-exercise-worksheet.pdf
+|
 ├── LICENSE
 └── README.md
 ```
