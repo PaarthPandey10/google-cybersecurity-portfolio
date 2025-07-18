@@ -105,6 +105,12 @@ google-cybersecurity-portfolio/
 |   ├── parking-lot-usb-contents.png
 │   └── parking-lot-usb-exercise-worksheet.pdf
 |
+├── 16-pasta-threat-modelling/
+│   ├── README.md
+│   ├── pasta-attack-tree.pdf
+│   ├── pasta-data-flow-diagram.pdf
+│   └── pasta-worksheet.pdf
+|
 ├── LICENSE
 └── README.md
 ```
