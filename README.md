@@ -111,6 +111,10 @@ google-cybersecurity-portfolio/
 │   ├── pasta-data-flow-diagram.pdf
 │   └── pasta-worksheet.pdf
 |
+├── 17-documenting-ransomware-attack-in-incident-journal/
+│   ├── README.md
+│   └── incident-handler-journal.pdf
+|
 ├── LICENSE
 └── README.md
 ```
