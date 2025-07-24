@@ -111,9 +111,18 @@ google-cybersecurity-portfolio/
 │   ├── pasta-data-flow-diagram.pdf
 │   └── pasta-worksheet.pdf
 |
-├── 17-documenting-ransomware-attack-in-incident-journal/
+├── 17-incident-journal-documentation/
 │   ├── README.md
 │   └── incident-handler-journal.pdf
+|
+├── 18-malicious-file-hash-analysis/
+│   ├── README.md
+│   └── inverstigation-findings.pdf
+|
+├── 19-phishing-alert-and-playbook-execution/
+│   ├── README.md
+│   ├── complete-alert-ticket.pdf
+│   └── phishing-incident-playbook.pdf
 |
 ├── LICENSE
 └── README.md
