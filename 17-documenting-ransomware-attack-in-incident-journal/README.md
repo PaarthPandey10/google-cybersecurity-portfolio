@@ -54,4 +54,5 @@ For feedback or questions:
 [LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/) • [GitHub](https://github.com/paarthpandey10) • paarthdxb@gmail.com
 
 > Author: Paarth Pandey
+> 
 > Course: Google Cybersecurity Professional Certificate
