@@ -47,9 +47,11 @@ This journal entry documents a ransomware attack targeting a small U.S. healthca
 
 This scenario illustrates the importance of layered security and proactive defense strategies. Human error (clicking on malicious links) remains a major risk vector, especially in industries handling sensitive information like healthcare. Proper response planning and fast containment are vital in minimizing impact.
 
-## Part of My Cybersecurity Portfolio
+## Contact
 
-This entry is part of my growing professional cybersecurity portfolio showcasing my incident handling, threat modeling, and risk analysis skills.
+For feedback or questions:  
+**Paarth Pandey**  
+[LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/) • [GitHub](https://github.com/paarthpandey10) • paarthdxb@gmail.com
 
-> Author: [Paarth Pandey](https://github.com/paarthpandey10)  
+> Author: Paarth Pandey
 > Course: Google Cybersecurity Professional Certificate
