@@ -51,6 +51,5 @@ This scenario illustrates the importance of layered security and proactive defen
 
 This entry is part of my growing professional cybersecurity portfolio showcasing my incident handling, threat modeling, and risk analysis skills.
 
-**Author:** Paarth Pandey  
-paarthdxb@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/) | [GitHub](https://github.com/paarthpandey10)
+> Author: [Paarth Pandey](https://github.com/paarthpandey10)  
+> Course: Google Cybersecurity Professional Certificate
