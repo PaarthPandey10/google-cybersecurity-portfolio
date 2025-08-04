@@ -124,6 +124,10 @@ google-cybersecurity-portfolio/
 │   ├── complete-alert-ticket.pdf
 │   └── phishing-incident-playbook.pdf
 |
+├── 20-python-list-automation
+│   ├── README.md
+│   └── python-aglorithm-ip-automation.pdf
+|
 ├── LICENSE
 └── README.md
 ```
